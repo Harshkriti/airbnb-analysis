@@ -6,4 +6,4 @@ We started with exploratory data analysis (EDA) to gain a better understanding o
 
 Their performance was compared using Mean Squared Error. The analysis showed that Lasso Regression has the minimum MSE among all the modes. LightGBM has the minimum MSE amoung tree based models. Based on the findings, the project provided recommendations to hosts on ways to improve their Airbnb ratings by focusing on the factors that matter most to guests. 
 
-Overall, this project demonstrats the importance of data analysis and modeling in providing valuable insights for business decision-making. By using machine learning models to analyze the data, the project was able to identify the most significant factors that impact Airbnb ratings, which could help hosts improve their ratings and attract more guests.
+Overall, this project demonstrates the importance of data analysis and modeling in providing valuable insights for business decision-making. By using machine learning models to analyze the data, the project was able to identify the most significant factors that impact Airbnb ratings, which could help hosts improve their ratings and attract more guests.
